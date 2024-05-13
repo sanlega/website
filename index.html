@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Personal Site</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked@3.0.0/marked.min.js" defer></script>
+    <script src="scripts.js" defer></script>
+</head>
+<body>
+<header>
+    <div class="title-lang-wrapper">
+        <div class="title-wrapper">
+            <h1 id="header-title">Santi Legaristi</h1>
+        </div>
+        <button id="lang-toggle" onclick="toggleLanguage()">ES</button>
+    </div>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#blog">Posts</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <div class="content">
+        <section id="about">
+            <h2 id="about-title">About Me</h2>
+            <p id="about-content">This section is now the main focus. It can contain information about you, your interests, or professional background.</p>
+        </section>
+        <h1 id="blog-title">Blog</h1>
+        <section id="blog">
+            <h2 id="blog-title">Posts</h2>
+            <!-- Blog posts will be loaded here by JavaScript -->
+        </section>
+        <section id="contact">
+            <h2 id="contact-title">Contact Me</h2>
+            <p id="contact-content">Feel free to reach out via email at <a href="mailto:santilega@gmail.com">santilega@gmail.com</a>.</p>
+        </section>
+    </div>
+</main>

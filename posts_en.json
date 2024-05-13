@@ -1,0 +1,12 @@
+[
+  {
+    "title": "LaserTag Game Project",
+    "date": "January 1, 2024",
+    "content": "# My Latest Maker Project \uD83C\uDFAE\uD83D\uDD2B\n\nJust finished a two-week project and I'm excited to share! \uD83D\uDE80 It's a laser shooting game where you aim at targets that change colors using Neopixel LEDs, all while a timer keeps track of your progress. I developed this for Aliados Lasertag, the only Lasertag arena in Pamplona that opened its doors last December. We showcased the project at the Pamplona Baluarte from March 1st to the 3rd during the ExpoFamily event, and it was a smashing success! \uD83D\uDCA5\n\nHere are some key details:\n- **Hardware**: I utilized ESP-32 development boards, Neopixel LED rings, Infrared sensors, and a 16x48px Neopixel matrix.\n- **Communication**: Everything communicates wirelessly thanks to the ESP-NOW protocol.\n- **Gameplay**: Pressing the button turns all targets red, and after a 3-second countdown, the timer starts. Targets randomly turn on and off in red, and you can only shoot them when they're on. Hitting a target changes its color to green. Once you've hit them all, the timer stops.\n- **My Role**: I handled both hardware and software design, along with creating 3D models for the target casings. Aimar Romeo from @3daromeo on Instagram brought these models to life with 3D printing.\n\nCheck out some videos and photos of the process and results below! If you're interested or just want to learn more, feel free to reach out! \uD83D\uDC7E\n\n![Img 1](https://media.licdn.com/dms/image/D4D22AQF5uh428-QRcg/feedshare-shrink_1280/0/1709834948948?e=1718236800&v=beta&t=F8bnN69lrhKuIGdGj8uGEwwHjIJ_lG0UwMuKuLIQ8Pk)\n![Placeholder Image 2](https://media.licdn.com/dms/image/D4D22AQHkKxwVsIkXRw/feedshare-shrink_1280/0/1709834948053?e=1718236800&v=beta&t=UWEuW4Rjl5dvF1K0c_yhi_qib2mRcBuQQRzHImSd4fs)\n![Placeholder Image 3](https://media.licdn.com/dms/image/D4D22AQGG0rlsNoYbgQ/feedshare-shrink_1280/0/1709834947904?e=1718236800&v=beta&t=SFSvC1TMZ45rVy3GvCAggqyh02-Rdf-XD36BrgrxgXU)\n![Placeholder Image 4](https://media.licdn.com/dms/image/D4D22AQFVTBw_ikEgrg/feedshare-shrink_1280/0/1709834944225?e=1718236800&v=beta&t=uJK1x5ARkBUMDTeu94B8erVK6rg8h_dm59CKbeYtgsQ)\n\n\\#LaserTag #DIY #ESP32 #Maker #Programming #Makespace #Arduino\n"
+  },
+  {
+    "title": "Second Post",
+    "date": "February 1, 2024",
+    "content": "Here's another interesting post on my awesome blog! More text here..."
+  }
+]
